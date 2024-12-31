@@ -1,4 +1,4 @@
-# POCOR : Path_following_Object_avoiding_Camera_featured_Object_carrying_Robot
+# POCOR : Path following Object avoiding Camera featured Object carrying Robot
 
 ## Description
 This is a project that involves a robot built on the ROS2 (Robot Operating System 2) framework with the simulation in gazebo. The robot is designed to perform several tasks including path following, object avoidance (using Nav2), and carrying objects and also has a camera feature to the bot.
